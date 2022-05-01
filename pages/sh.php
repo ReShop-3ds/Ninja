@@ -1,0 +1,2 @@
+<?php
+echo '{"services":{"service":[{"name":"EOU","origin_fqdn":"eou.c.shop.nintendowifi.net","cdn_fqdn":"eou.ctr.eshop.nintendo.net"},{"name":"SAMURAI_CTR","origin_fqdn":"samurai-ctr.qck.ar.nf","cdn_fqdn":"samurai-ctr.qck.ar.nf"},{"name":"CCIF","origin_fqdn":"ccif.ctr.shop.nintendo.net"}]}}';
